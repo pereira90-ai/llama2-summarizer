@@ -10,7 +10,7 @@ The llama-2 Text Summarizer is a cutting-edge natural language processing (NLP) 
 
 Open the LLama model in Google Colab Using the button below. Once you've opened the Colab, You'll need a hugging face token and NgRok token. After you've obtained your tokens place the tokens where asked and start the Flask Server
 
-<a target="_blank" href="https://colab.research.google.com/github/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/model_monitoring/model_monitoring.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/Abhi10699/LLama-2-Summarizer/blob/main/llma-2-summarizer.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 

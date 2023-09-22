@@ -1,22 +1,20 @@
-# create-svelte
+# Llama-2 Summarizer
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+The llama-2 Text Summarizer is a cutting-edge natural language processing (NLP) project that leverages the power of the LLM (Large Language Model) called llama-2 to generate concise and coherent summaries of text documents. Whether you need to distill lengthy articles, research papers, or any textual content into key points, this summarizer is here to help.
 
-## Creating a project
+![image](https://github.com/Abhi10699/LLama-2-Summarizer/assets/16337462/bf2a34ae-e028-4732-952e-98610988a2ae)
 
-If you're seeing this, you've probably already done this step. Congrats!
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+## Usage
 
-## Developing
+Open the LLama model in Google Colab Using the button below. Once you've opened the Colab, You'll need a hugging face token and NgRok token. After you've obtained your tokens place the tokens where asked and start the Flask Server
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+<a target="_blank" href="https://colab.research.google.com/github/GoogleCloudPlatform/vertex-ai-samples/blob/main/notebooks/official/model_monitoring/model_monitoring.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+Once you've cloned the project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
 npm run dev
@@ -25,14 +23,4 @@ npm run dev
 npm run dev -- --open
 ```
 
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Go to the webpage and paste the ngrok link from Colab and then you can start using the summarizer

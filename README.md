@@ -2,7 +2,7 @@
 
 The llama-2 Text Summarizer is a cutting-edge natural language processing (NLP) project that leverages the power of the LLM (Large Language Model) called llama-2 to generate concise and coherent summaries of text documents. Whether you need to distill lengthy articles, research papers, or any textual content into key points, this summarizer is here to help.
 
-![image](https://github.com/Abhi10699/LLama-2-Summarizer/assets/16337462/bf2a34ae-e028-4732-952e-98610988a2ae)
+![image](https://github.com/pereira90-ai/llama2-summarizer//assets/16337462/bf2a34ae-e028-4732-952e-98610988a2ae)
 
 
 
@@ -10,7 +10,7 @@ The llama-2 Text Summarizer is a cutting-edge natural language processing (NLP) 
 
 Open the LLama model in Google Colab Using the button below. Once you've opened the Colab, You'll need a hugging face token and NgRok token. After you've obtained your tokens place the tokens where asked and start the Flask Server
 
-<a target="_blank" href="https://colab.research.google.com/github/Abhi10699/LLama-2-Summarizer/blob/main/llma-2-summarizer.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github.com/pereira90-ai/llama2-summarizer/blob/main/llma-2-summarizer.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
